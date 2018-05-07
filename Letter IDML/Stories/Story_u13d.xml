@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1">
+	<Story Self="u13d" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Month YYYY</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Salutation">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Dear Brothers and Friends of Sigma,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Uditatuscit, ut il maxim remporpore voluptatque comnimo luptas cullest quos conem et aliquaturias dicatem perfero ipsapid que maximil mi, tem am, quo berios pori int lab id ut quam, sim si doloratur a volut aut laut aut volorem abore iur aceped quid molupti issectur.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Pudi berento magnamusciet fuga. Nequae et plibus id ut eum reium rere consed et haria di ipsae corrunt inctusapit earum as volum, tempos nis quam, tectorem fugitatur sum harciist fuga. Lic tem assequam aut earum harit lacea dolor aut quam, ne nonsequodita cone dolorer feruptatibus debitibero eos et as cus, ne es alissin cus aute il ipistor ehenet utatur aut et accaepu daerate sum quiam, si dunt ipicieni dolorepudae parundae sitaquibusam quunte nihitat emolupt aspero et, non placcum secatem ipici numquo tecernati qui undebit exceperror sequo cusci aut porepernat quam volupta tiaspid quas ducitassunt aliae liquia vel id quuntur? Ibus reperfe rferibe aquatist, sapedis eaqui doloribus, nusciis velici corum estia consedior sequia con poreped ullaut re latquamus aciet eost, quaerae por ratende stibus, nis di occae doloreptas minvent inus cus archiliatur</Content>
+			</CharacterStyleRange>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>.</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Valediction">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Content>Sincerely yours in ΖΑΧ,</Content>
+				<Br />
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/First Paragraph">
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/$ID/[No character style]">
+				<Br />
+				<Content>Name ’##, Alumni Secretary, Σ ####</Content>
+				<Br />
+				<Content>(###) ###-####</Content>
+				<Br />
+				<Content>email@umich.edu</Content>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
