@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="13.1(76)" ?>
-<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1" Self="d" StoryList="ufa u110 u127 u13d u21b u232 u26f u249 u1b2 u313 u32e u347 u35e u378 u390 u3ab u3c4 u3dc u3f4 u40d u426 u43d u459 u470 u487 u4a1 u4b9 u4d0 u4eb u504 u55f u91" Name="Letter.indd" ZeroPoint="0 0" ActiveLayer="ub1" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="14.0(324)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="14.0" Self="d" StoryList="ufa u110 u127 u13d u21b u232 u26f u249 u1b2 u313 u32e u347 u35e u378 u390 u3ab u3c4 u3dc u3f4 u40d u426 u43d u459 u470 u487 u4a1 u4b9 u4d0 u4eb u504 u55f u91" Name="Letter.indd" ZeroPoint="0 0" ActiveLayer="ub1" CMYKProfile="U.S. Web Coated (SWOP) v2" RGBProfile="sRGB IEC61966-2.1" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="PreserveEmbeddedProfiles" CMYKPolicy="CombinationOfPreserveAndSafeCmyk" AccurateLABSpots="false">
 	<Properties>
 		<Label>
 			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
@@ -39,6 +39,7 @@
 		</Properties>
 	</WatermarkPreference>
 	<TaggedPDFPreference StructureOrder="UseXMLStructure" />
+	<AdjustLayoutPreference EnableAdjustLayout="false" AllowLockedObjectsToAdjust="true" AllowFontSizeAndLeadingAdjustment="false" ImposeFontSizeRestriction="false" MinimumFontSize="6" MaximumFontSize="324" EnableAutoAdjustMargins="false" />
 	<HTMLFXLExportPreference EpubPageRange="" EpubPageRangeFormat="ExportAllPages" />
 	<PublishExportPreference PublishCover="FirstPage" CoverImageFile="" PublishPageRange="" PublishPageRangeFormat="ExportAllPages" ImageConversion="Automatic" ImageExportResolution="Ppi96" PublishDescription="" PublishFileName="" PublishFormat="PublishByPages" CoverPage="$ID/" GIFOptionsPalette="AdaptivePalette" JPEGOptionsQuality="High" PublishPdf="false" />
 	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />

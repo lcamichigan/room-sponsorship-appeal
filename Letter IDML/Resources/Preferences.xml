@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<idPkg:Preferences xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1">
+<idPkg:Preferences xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="14.0">
 	<ButtonPreference Name="" />
 	<PrintPreference PrintFile="" Copies="1" Collating="false" ReverseOrder="false" Sequence="All" PrintSpreads="false" PrintMasterPages="false" PrintNonprinting="false" PrintBlankPages="false" PrintGuidesGrids="false" PaperOffset="0" PaperGap="0" PaperTransverse="false" PrintPageOrientation="Portrait" PagePosition="UpperLeft" ScaleMode="ScaleWidthHeight" ScaleWidth="100" ScaleHeight="100" ScaleProportional="true" Thumbnails="false" ThumbnailsPerPage="K1x2" Tile="false" TilingType="Auto" TilingOverlap="108" AllPrinterMarks="false" CropMarks="false" BleedMarks="false" RegistrationMarks="false" ColorBars="false" PageInformationMarks="false" MarkLineWeight="P25pt" MarkOffset="6" UseDocumentBleedToPrint="true" BleedTop="0" BleedBottom="0" BleedInside="0" BleedOutside="0" IncludeSlugToPrint="false" ColorOutput="CompositeCMYK" TextAsBlack="false" Trapping="Off" Flip="None" Negative="false" CompositeAngle="45" CompositeFrequency="70" SimulateOverprint="false" PrintCyan="true" CyanAngle="75" CyanFrequency="70" PrintMagenta="true" MagentaAngle="15" MagentaFrequency="70" PrintYellow="true" YellowAngle="0" YellowFrequency="70" PrintBlack="true" BlackAngle="45" BlackFrequency="70" SendImageData="AllImageData" FontDownloading="Complete" DownloadPPDFonts="true" PostScriptLevel="Level3" DataFormat="Binary" SourceSpace="UseDocument" Intent="AbsoluteColorimetric" OPIImageReplacement="false" OmitEPS="false" OmitPDF="false" OmitBitmaps="false" FlattenerPresetName="$ID/kFlSt_MediumDefaultName" IgnoreSpreadOverrides="false" DeviceType="0" PrintTo="2" PPDFile="$ID/" PrintToDisk="true" PrintRecord="$ID/" PrintResolution="1200" PaperSizeSelector="$ID/" PaperHeightRange="0 0" PaperWidthRange="0 0" PaperOffsetRange="0 0" SeparationScreening="$ID/" CompositeScreening="$ID/kDefault" SpotAngle="45" SpotFrequency="70" BleedChain="false" PreserveColorNumbers="true" BitmapPrinting="true" BitmapResolution="300" PrintLayers="VisiblePrintableLayers" PDFPassthrough="false">
 		<Properties>
@@ -65,7 +65,7 @@
 			<RuleBelowType type="object">StrokeStyle/$ID/Solid</RuleBelowType>
 			<TabList type="list">
 			</TabList>
-			<AppliedFont type="string">Linux Libertine O</AppliedFont>
+			<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			<Leading type="enumeration">Auto</Leading>
 			<UnderlineColor type="string">Text Color</UnderlineColor>
 			<UnderlineGapColor type="object">Swatch/None</UnderlineGapColor>
@@ -78,6 +78,7 @@
 			<ParagraphBorderColor type="object">Color/Black</ParagraphBorderColor>
 			<ParagraphBorderGapColor type="object">Swatch/None</ParagraphBorderGapColor>
 			<ParagraphBorderType type="object">StrokeStyle/$ID/Solid</ParagraphBorderType>
+			<SameParaStyleSpacing type="enumeration">SetIgnore</SameParaStyleSpacing>
 			<KentenFillColor type="string">Text Color</KentenFillColor>
 			<KentenStrokeColor type="string">Text Color</KentenStrokeColor>
 			<KentenFont type="string">$ID/</KentenFont>

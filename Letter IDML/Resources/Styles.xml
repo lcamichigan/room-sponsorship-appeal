@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<idPkg:Styles xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1">
+<idPkg:Styles xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="14.0">
 	<RootCharacterStyleGroup Self="u73">
 		<CharacterStyle Self="CharacterStyle/$ID/[No character style]" Imported="false" SplitDocument="false" EmitCss="true" StyleUniqueId="786e0f69-9d43-4bc5-98ce-b90d633c89b3" IncludeClass="true" Name="$ID/[No character style]" />
 	</RootCharacterStyleGroup>
@@ -46,27 +46,28 @@
 				<NumberingRestartPolicies RestartPolicy="AnyPreviousLevel" LowerLevel="0" UpperLevel="0" />
 				<BulletsCharacterStyle type="object">CharacterStyle/$ID/[No character style]</BulletsCharacterStyle>
 				<NumberingCharacterStyle type="object">CharacterStyle/$ID/[No character style]</NumberingCharacterStyle>
+				<SameParaStyleSpacing type="enumeration">SetIgnore</SameParaStyleSpacing>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="4d5e85cb-02bb-4dc0-ab87-79aef2341437" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="10" FirstLineIndent="18" OTFFigureStyle="ProportionalLining" Justification="LeftJustified" GridAlignment="AlignBaseline">
+		<ParagraphStyle Self="ParagraphStyle/$ID/NormalParagraphStyle" Name="$ID/NormalParagraphStyle" Imported="false" NextStyle="ParagraphStyle/$ID/NormalParagraphStyle" SplitDocument="false" EmitCss="true" StyleUniqueId="1ade27c0-b3ed-452b-a74d-91c51f2bd8c6" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="10" FirstLineIndent="18" OTFFigureStyle="ProportionalLining" Justification="LeftJustified" GridAlignment="AlignBaseline">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Linux Libertine O</AppliedFont>
+				<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Floor Title" Name="Floor Title" Imported="false" NextStyle="ParagraphStyle/Floor Title" SplitDocument="false" EmitCss="true" StyleUniqueId="7cad23cf-17ae-4c4e-ad60-f23459106834" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Italic" PointSize="18" Hyphenation="false" OTFFigureStyle="ProportionalLining" Justification="LeftJustified">
+		<ParagraphStyle Self="ParagraphStyle/Floor Title" Name="Floor Title" Imported="false" NextStyle="ParagraphStyle/Floor Title" SplitDocument="false" EmitCss="true" StyleUniqueId="00155a21-bb46-49e9-8335-dd38bc0d8d56" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Italic" PointSize="18" Hyphenation="false" OTFFigureStyle="ProportionalLining" Justification="LeftJustified">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Linux Libertine O</AppliedFont>
+				<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Room Number" Name="Room Number" Imported="false" NextStyle="ParagraphStyle/Room Number" SplitDocument="false" EmitCss="true" StyleUniqueId="d0850107-c984-4b3d-9ba1-092aa0bc3c7a" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="24" Hyphenation="false" OTFFigureStyle="ProportionalLining" Justification="CenterAlign">
+		<ParagraphStyle Self="ParagraphStyle/Room Number" Name="Room Number" Imported="false" NextStyle="ParagraphStyle/Room Number" SplitDocument="false" EmitCss="true" StyleUniqueId="bd559569-35fe-42c9-bd1e-42f159c538f2" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="24" Hyphenation="false" OTFFigureStyle="ProportionalLining" Justification="CenterAlign">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Linux Libertine O</AppliedFont>
+				<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Plaque Instructions" Name="Plaque Instructions" Imported="false" NextStyle="ParagraphStyle/Plaque Instructions" SplitDocument="false" EmitCss="true" StyleUniqueId="fe981669-8d0c-4d03-bd8f-4881e5e4bf09" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" PointSize="10" Justification="RightAlign">
@@ -76,11 +77,11 @@
 				<AppliedFont type="string">Gillius ADF No2</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
-		<ParagraphStyle Self="ParagraphStyle/Image Caption" Name="Image Caption" Imported="false" NextStyle="ParagraphStyle/Image Caption" SplitDocument="false" EmitCss="true" StyleUniqueId="37e7a92e-1e01-47c8-b9ec-8d36fbda5a5e" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="8" OTFFigureStyle="ProportionalLining" Justification="LeftJustified">
+		<ParagraphStyle Self="ParagraphStyle/Image Caption" Name="Image Caption" Imported="false" NextStyle="ParagraphStyle/Image Caption" SplitDocument="false" EmitCss="true" StyleUniqueId="045b56a5-454d-4b7f-a856-7ad2441a245f" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" FontStyle="Bold" PointSize="8" OTFFigureStyle="ProportionalLining" Justification="LeftJustified">
 			<Properties>
 				<BasedOn type="string">$ID/[No paragraph style]</BasedOn>
 				<PreviewColor type="enumeration">Nothing</PreviewColor>
-				<AppliedFont type="string">Linux Libertine O</AppliedFont>
+				<AppliedFont type="string">Libertinus Serif</AppliedFont>
 			</Properties>
 		</ParagraphStyle>
 		<ParagraphStyle Self="ParagraphStyle/Alumni Note" Name="Alumni Note" Imported="false" NextStyle="ParagraphStyle/Alumni Note" SplitDocument="false" EmitCss="true" StyleUniqueId="b43c458d-4a37-4237-820d-12f80a2e5745" IncludeClass="true" EmptyNestedStyles="true" EmptyLineStyles="true" EmptyGrepStyles="true" KeyboardShortcut="0 0" Hyphenation="false">
